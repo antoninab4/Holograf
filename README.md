@@ -1,5 +1,8 @@
 # Holograph
 
+## discord
+https://discord.gg/holograph
+
 ## Установка оператора Holograph
 
 ### Думаем хватит и такого, но надо тестить 
